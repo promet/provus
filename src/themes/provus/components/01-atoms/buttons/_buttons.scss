@@ -1,5 +1,5 @@
 @mixin button() {
-  background: linear-gradient(180deg, #00aadf 0%, #094894 100%);
+  background: linear-gradient(90deg, #e6003f 0%, #40348f 100%);
   border: none;
   cursor: pointer;
   padding: 15px 25px;
@@ -18,7 +18,7 @@
   outline: 0;
 
   &:hover {
-    background: #B5132E;
+    background: linear-gradient(90deg, #40348f 0%, #e6003f 100%);
     text-decoration: none;
   }
 

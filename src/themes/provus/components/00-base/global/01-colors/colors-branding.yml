@@ -19,7 +19,7 @@ items:
     value: 'primary-darker'
   - name: '#112e51'
     value: 'primary-darkest'
-  - name: '#E6003F'
+  - name: '#000000'
     value: 'secondary'
   - name: '#FD5809'
     value: 'accent'
